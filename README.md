@@ -1,5 +1,5 @@
 # OIBSIP
-# Oasis Infobyte Internship Projects (OIBSIP)
+## Oasis Infobyte Internship Projects (OIBSIP)
 
 This repository contains the projects completed as part of my **Oasis Infobyte Data Analytics Internship**.
 
