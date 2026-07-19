@@ -30,4 +30,4 @@ This repository contains the projects completed as part of my **Oasis Infobyte D
 
 ## 👩‍💻 Author
 
-**Anusha Mahekar**
+**Anusha Ullas Mahekar**
