@@ -1,23 +1,15 @@
-# OIBSIP
-## Oasis Infobyte Internship Projects (OIBSIP)
+# Oasis Infobyte Internship Projects (OIBSIP)
 
-This repository contains the projects completed as part of my **Oasis Infobyte Data Analytics Internship**.
+This repository contains the Machine Learning/Data Analytics projects completed as part of my Oasis Infobyte Internship.
 
-## 📂 Projects
+## Projects
 
-### Task 1: Iris Flower Classification
-- Built classification models to predict Iris flower species.
+- Iris Flower Classification
+- Unemployment Analysis with Python
+- Car Price Prediction
+- Email Spam Detection
 
-### Task 2: Unemployment Analysis
-- Performed Exploratory Data Analysis (EDA) on unemployment trends in India.
-
-### Task 3: Car Price Prediction
-- Developed regression models to predict used car prices.
-
-### Task 4: Email Spam Detection
-- Built an NLP-based machine learning model to classify emails as Spam or Ham.
-
-## 🛠️ Technologies Used
+## Technologies Used
 
 - Python
 - Pandas
@@ -28,6 +20,6 @@ This repository contains the projects completed as part of my **Oasis Infobyte D
 - NLTK
 - Jupyter Notebook
 
-## 👩‍💻 Author
+## Author
 
-**Anusha Ullas Mahekar**
+Anusha Mahekar
