@@ -1,95 +1,117 @@
-# Oasis Infobyte Data Science Internship (OIBSIP)
+# 🌟 Oasis Infobyte Data Science Internship (OIBSIP)
 
-Welcome to my **Oasis Infobyte Data Science Internship** repository. This repository contains the projects I completed as part of the internship, demonstrating my skills in **Data Science, Machine Learning, Data Analysis, Natural Language Processing (NLP), and Python**.
-
-## 📌 Internship Details
-
-- **Organization:** Oasis Infobyte
-- **Domain:** Data Science
-- **Repository Name:** OIBSIP
+Welcome to my **Oasis Infobyte Data Science Internship** repository! This repository contains the projects I completed during my internship, showcasing practical applications of **Data Science**, **Machine Learning**, **Data Analysis**, and **Natural Language Processing (NLP)** using Python.
 
 ---
 
-## 📂 Projects
+## 👩‍💻 About Me
 
-### 🔹 Task 1 – Iris Flower Classification
-**Objective:** Develop a machine learning classification model to identify Iris flower species based on their physical measurements.
+**Anusha Mahekar**
 
-**Tech Stack:**
-- Python
-- Pandas
-- Scikit-learn
-- Matplotlib
-- Seaborn
+- 🎓 B.E. in Artificial Intelligence & Machine Learning
+- 💻 Passionate about Data Science, Machine Learning, and AI
+- 🌱 Continuously learning and building real-world projects
 
-**Algorithms Used:**
+---
+
+# 📂 Projects
+
+## 🔹 Task 1 – Iris Flower Classification
+
+**Objective:**  
+Developed a machine learning classification model to predict Iris flower species using flower measurements.
+
+**Highlights**
+- Exploratory Data Analysis (EDA)
+- Data Visualization
 - Logistic Regression
 - K-Nearest Neighbors (KNN)
+- Model Evaluation
 
----
-
-### 🔹 Task 2 – Unemployment Analysis with Python
-**Objective:** Analyze unemployment trends in India and study the impact of COVID-19 through Exploratory Data Analysis (EDA) and data visualization.
-
-**Tech Stack:**
-- Python
-- Pandas
-- Matplotlib
-- Seaborn
-
-**Analysis Performed:**
-- Data Cleaning
-- Region-wise Analysis
-- Monthly Trends
-- Correlation Analysis
-- COVID-19 Impact Analysis
-
----
-
-### 🔹 Task 3 – Car Price Prediction
-**Objective:** Build a machine learning regression model to predict the selling price of used cars using various vehicle attributes.
-
-**Tech Stack:**
+**Tools & Technologies**
 - Python
 - Pandas
 - Scikit-learn
 - Matplotlib
 - Seaborn
 
-**Algorithms Used:**
+---
+
+## 🔹 Task 2 – Unemployment Analysis with Python
+
+**Objective:**  
+Analyzed unemployment trends across India and studied the impact of COVID-19 using Exploratory Data Analysis.
+
+**Highlights**
+- Data Cleaning
+- Region-wise Analysis
+- Time-Series Analysis
+- Correlation Heatmap
+- Data Visualization
+
+**Tools & Technologies**
+- Python
+- Pandas
+- Matplotlib
+- Seaborn
+
+---
+
+## 🔹 Task 3 – Car Price Prediction
+
+**Objective:**  
+Built regression models to predict the selling price of used cars based on multiple vehicle features.
+
+**Highlights**
+- Feature Engineering
+- Data Preprocessing
 - Linear Regression
 - Random Forest Regressor
+- Feature Importance Analysis
 
-**Evaluation Metrics:**
+**Evaluation Metrics**
 - MAE
 - RMSE
 - R² Score
 
----
-
-### 🔹 Task 4 – Email Spam Detection
-**Objective:** Develop a Natural Language Processing (NLP) model to classify emails as Spam or Ham.
-
-**Tech Stack:**
+**Tools & Technologies**
 - Python
 - Pandas
 - Scikit-learn
-- NLTK
-- TF-IDF Vectorizer
+- Matplotlib
+- Seaborn
 
-**Algorithms Used:**
+---
+
+## 🔹 Task 4 – Email Spam Detection
+
+**Objective:**  
+Built an NLP-based machine learning model to classify emails as **Spam** or **Ham**.
+
+**Highlights**
+- Text Preprocessing
+- TF-IDF Vectorization
 - Multinomial Naive Bayes
 - Logistic Regression
+- Model Evaluation
 
-**Evaluation Metrics:**
+**Evaluation Metrics**
 - Accuracy
 - Precision
 - Recall
 - F1-Score
+- Confusion Matrix
+
+**Tools & Technologies**
+- Python
+- Pandas
+- Scikit-learn
+- NLTK
+- TF-IDF
 
 ---
 
-## 🛠️ Technologies Used
+# 🛠️ Technologies Used
 
 - Python
 - Pandas
@@ -99,11 +121,12 @@ Welcome to my **Oasis Infobyte Data Science Internship** repository. This reposi
 - Seaborn
 - NLTK
 - Jupyter Notebook
-- Git & GitHub
+- Git
+- GitHub
 
 ---
 
-## 📁 Repository Structure
+# 📁 Repository Structure
 
 ```
 OIBSIP/
@@ -117,28 +140,31 @@ OIBSIP/
 
 ---
 
-## 🚀 Learning Outcomes
-
-Through this internship, I gained practical experience in:
+# 🎯 Skills Demonstrated
 
 - Data Cleaning & Preprocessing
 - Exploratory Data Analysis (EDA)
 - Data Visualization
-- Machine Learning Classification
-- Machine Learning Regression
+- Machine Learning
+- Regression & Classification
 - Natural Language Processing (NLP)
-- Model Evaluation & Performance Analysis
-- GitHub Project Management
+- Model Evaluation
+- Feature Engineering
+- Git & GitHub
 
 ---
 
-## 👩‍💻 Author
+# 🙏 Acknowledgement
 
-**Anusha Ullas Mahekar**
-
-- GitHub: https://github.com/anu-mahekar
-- LinkedIn: https://www.linkedin.com/in/anusha-mahekar/
+I would like to thank **Oasis Infobyte** for providing this internship opportunity, which helped me strengthen my practical skills in Data Science and Machine Learning through real-world projects. :contentReference[oaicite:0]{index=0}
 
 ---
 
-⭐ *Thank you for visiting this repository. Feel free to explore the projects and share your feedback!*
+## 📬 Connect with Me
+
+- **GitHub:** https://github.com/anu-mahekar
+- **LinkedIn:** https://www.linkedin.com/in/anusha-mahekar/
+
+---
+
+⭐ **If you found this repository helpful, feel free to explore the projects and leave a star!**
