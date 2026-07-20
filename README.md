@@ -6,7 +6,7 @@ Welcome to my **Oasis Infobyte Data Science Internship** repository! This reposi
 
 ## 👩‍💻 About Me
 
-**Anusha Mahekar**
+**Anusha Ullas Mahekar**
 
 - 🎓 B.E. in Artificial Intelligence & Machine Learning
 - 💻 Passionate about Data Science, Machine Learning, and AI
