@@ -156,7 +156,7 @@ OIBSIP/
 
 # 🙏 Acknowledgement
 
-I would like to thank **Oasis Infobyte** for providing this internship opportunity, which helped me strengthen my practical skills in Data Science and Machine Learning through real-world projects. :contentReference[oaicite:0]{index=0}
+I would like to thank **Oasis Infobyte** for providing this internship opportunity, which helped me strengthen my practical skills in Data Science and Machine Learning through real-world projects. 
 
 ---
 
